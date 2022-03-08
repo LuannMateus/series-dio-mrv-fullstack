@@ -1,0 +1,15 @@
+C:\Users\luanm\Dev\DevProjects\dotnet\seriesR\bin\Debug\net6.0\seriesR.exe
+C:\Users\luanm\Dev\DevProjects\dotnet\seriesR\bin\Debug\net6.0\seriesR.deps.json
+C:\Users\luanm\Dev\DevProjects\dotnet\seriesR\bin\Debug\net6.0\seriesR.runtimeconfig.json
+C:\Users\luanm\Dev\DevProjects\dotnet\seriesR\bin\Debug\net6.0\seriesR.dll
+C:\Users\luanm\Dev\DevProjects\dotnet\seriesR\bin\Debug\net6.0\ref\seriesR.dll
+C:\Users\luanm\Dev\DevProjects\dotnet\seriesR\bin\Debug\net6.0\seriesR.pdb
+C:\Users\luanm\Dev\DevProjects\dotnet\seriesR\obj\Debug\net6.0\seriesR.csproj.AssemblyReference.cache
+C:\Users\luanm\Dev\DevProjects\dotnet\seriesR\obj\Debug\net6.0\seriesR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanm\Dev\DevProjects\dotnet\seriesR\obj\Debug\net6.0\seriesR.AssemblyInfoInputs.cache
+C:\Users\luanm\Dev\DevProjects\dotnet\seriesR\obj\Debug\net6.0\seriesR.AssemblyInfo.cs
+C:\Users\luanm\Dev\DevProjects\dotnet\seriesR\obj\Debug\net6.0\seriesR.csproj.CoreCompileInputs.cache
+C:\Users\luanm\Dev\DevProjects\dotnet\seriesR\obj\Debug\net6.0\seriesR.dll
+C:\Users\luanm\Dev\DevProjects\dotnet\seriesR\obj\Debug\net6.0\ref\seriesR.dll
+C:\Users\luanm\Dev\DevProjects\dotnet\seriesR\obj\Debug\net6.0\seriesR.pdb
+C:\Users\luanm\Dev\DevProjects\dotnet\seriesR\obj\Debug\net6.0\seriesR.genruntimeconfig.cache
